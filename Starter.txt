@@ -1,0 +1,1 @@
+This is starter project file for git 1.
